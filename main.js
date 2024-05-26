@@ -85,7 +85,3 @@ function oyunBitti() {
     }
 }
 setInterval(oyunBitti, 10);
-
-
-
-
